@@ -7,8 +7,8 @@ hero:
   text: "Open Source FTC"
   tagline: "At your fingertips!"
   image:
-        dark: /images/logo.png
-        light: /images/logo.png
+        dark: /logo.png
+        light: /logo.png
         alt: robo ftc Logo
   actions:
     - theme: brand
