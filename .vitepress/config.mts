@@ -16,7 +16,8 @@ export default defineConfig({
     },
     nav: [
       { text: "Home", link: "/" },
-{ text: "CAD", link: "/cad/claw" },
+      { text: "CAD", link: "/cad/claw" },
+      { text: "Code", link: "/code/pedro" }
 
     ],
     sidebar: [
@@ -25,7 +26,13 @@ export default defineConfig({
         items: [
           { text: 'Claw', link: '/cad/claw' }
         ]
-      } 
+      },
+      {
+        text: 'RoboCode',
+        items: [
+          { text: 'Pedro', link: '/code/pedro' }
+        ]
+      }
     ]
   },
 });
