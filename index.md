@@ -17,8 +17,13 @@ hero:
     - theme: alt
       text: RoboCAD
       link: /cad/claw
+    - theme: alt
+      text: RoboCode
+      link: /code/pedro  
 
 features:
   - title: RoboCAD
+    details: Configurable CAD Designs
+  - title: RoboCode
     details: Configurable CAD Designs
 ---
