@@ -7,16 +7,16 @@ hero:
   text: "Open Source FTC"
   tagline: "At your fingertips!"
   image:
-        dark: /images/pedropathinglogo-darkmode.png
-        light: /images/pedropathinglogo-lightmode.png
-        alt: Pedro Logo
+        dark: /images/logo.png
+        light: /images/logo.png
+        alt: robo ftc Logo
   actions:
     - theme: brand
       text: Get Started
       link: /
     - theme: alt
       text: RoboCAD
-      link: /
+      link: /cad/claw
 
 features:
   - title: RoboCAD
