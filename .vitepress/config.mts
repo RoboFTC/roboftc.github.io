@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'RoboFTC',
   description: 'Open Source FTC',
-  base: '/Website/',  // Set the base URL for deployment
+  base: '/',  // Set the base URL for deployment
   head: [
     ["link", { rel: "shortcut icon", type: "image/x-icon", href: "/favicon.ico" }]
   ],
