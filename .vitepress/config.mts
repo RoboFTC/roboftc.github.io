@@ -16,12 +16,14 @@ export default defineConfig({
     },
     nav: [
       { text: "Home", link: "/" },
+{ text: "CAD", link: "/cad/claw" },
+
     ],
     sidebar: [
       {
         text: 'RoboCAD',
         items: [
-          { text: 'Overview', link: '/' }
+          { text: 'Claw', link: '/cad/claw' }
         ]
       } 
     ]
