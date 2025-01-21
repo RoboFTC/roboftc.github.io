@@ -1,1 +1,1 @@
-<script language="javascript" type="text/javascript" src="wheel-graph.js"></script>
+<script language="javascript" type="text/javascript" src="./wheel-graph.js"></script>
