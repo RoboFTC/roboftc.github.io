@@ -1,5 +1,7 @@
+
+
 <template>
-  <div ref="iframeContainer" style="height: 100vh; width: 100%; overflow: hidden;"></div>
+  <div ref="iframeContainer" style="height: 100vh; width: 100; overflow: hidden;"></div>
 </template>
 
 <script setup>
