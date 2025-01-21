@@ -1,1 +1,1 @@
-<script src="./wheel-graph.js"></script>
+<script src="../public/wheel-graph.js"></script>

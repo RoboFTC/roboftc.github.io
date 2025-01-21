@@ -4,11 +4,6 @@ export default defineConfig({
   title: 'RoboFTC',
   description: 'Open Source FTC',
   base: '/',  // Set the base URL for deployment
-  build: {
-    rollupOptions: {
-      external: ['../code/wheel-graph.js'], // Exclude the script
-    },
-  },
   head: [
     ["link", { rel: "shortcut icon", type: "image/x-icon", href: "/favicon.ico" }]
   ],
