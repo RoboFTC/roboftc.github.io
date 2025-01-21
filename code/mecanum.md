@@ -1,5 +1,5 @@
 <template>
-  <div ref="iframeContainer"></div>
+  <div ref="iframeContainer" style="height: 100vh; width: 100%; overflow: hidden;"></div>
 </template>
 
 <script setup>
@@ -13,6 +13,7 @@ onMounted(() => {
   iframe.width = '100%';
   iframe.height = '100%';
   iframe.style.border = 'none';
+  iframe.style.overflow = 'hidden';
   iframeContainer.value.appendChild(iframe);
 });
 </script>

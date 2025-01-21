@@ -10,7 +10,7 @@ float targetY;
 float targetRot;
 
 void setup() {
-  size(1152, 704);
+  size(windowWidth, windowHeight);
   setupRobot();
   
   targetPosEnabled = true;
@@ -21,6 +21,9 @@ void setup() {
 
 void draw() {
   background(0,0,0,0);
+
+    float scaleFactor = min(width / 1152, height / 704); // Calculate the scaling factor
+    scale(scaleFactor);  // Apply scaling
   textAlign(CENTER, TOP);
   textSize(64);
   fill(0);

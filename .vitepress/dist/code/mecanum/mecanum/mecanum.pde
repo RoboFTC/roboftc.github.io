@@ -10,7 +10,7 @@ float targetY;
 float targetRot;
 
 void setup() {
-  size(1152, 704);
+  size(windowWidth, windowHeight);
   setupRobot();
   
   targetPosEnabled = true;
@@ -20,11 +20,13 @@ void setup() {
 }
 
 void draw() {
-  background(255, 255, 255);
+  background(0,0,0,0);
+
+    float scaleFactor = min(width / 1152, height / 704); // Calculate the scaling factor
+    scale(scaleFactor);  // Apply scaling
   textAlign(CENTER, TOP);
   textSize(64);
   fill(0);
-  text(driveTrain.getDriveTrainName(), width/2, 8);
   textAlign(LEFT, BASELINE);
   
   float maxVelocity = 0.0;
@@ -60,7 +62,6 @@ void draw() {
   textAlign(LEFT, BOTTOM);
   fill(0);
   textSize(20);
-  text("Arrows to move, A/D to turn, 1-" + driveTrain.numWheels() * 2 + " to move individual wheels, M/O/T to switch drive trains, R to reset.", 8, height - 8);
   textAlign(LEFT, BASELINE);
 }
 
