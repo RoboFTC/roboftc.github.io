@@ -9,7 +9,7 @@ const iframeContainer = ref(null);
 
 onMounted(() => {
   const iframe = document.createElement('iframe');
-  iframe.src = 'code/mecanum/mecanum/index.html';
+  iframe.src = 'https://roboftc.github.io/code/mecanum/mecanum/index.html';
   iframe.width = '100%';
   iframe.height = '600px';
   iframe.style.border = 'none';
