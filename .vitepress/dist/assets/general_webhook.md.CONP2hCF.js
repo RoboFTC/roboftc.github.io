@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t}from"./chunks/framework.D5XSuxOt.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"general/webhook.md","filePath":"general/webhook.md"}'),a={name:"general/webhook.md"};function r(n,s,c,p,_,d){return t(),o("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.D5XSuxOt.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"general/androidstudio.md","filePath":"general/androidstudio.md"}'),o={name:"general/androidstudio.md"};function r(d,n,s,i,c,p){return a(),t("div")}const m=e(o,[["render",r]]);export{l as __pageData,m as default};

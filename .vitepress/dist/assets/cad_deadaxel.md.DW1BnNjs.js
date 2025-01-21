@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.BX3WmZWL.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cad/deadaxel.md","filePath":"cad/deadaxel.md","lastUpdated":1737434477000}'),d={name:"cad/deadaxel.md"};function c(r,o,s,n,l,p){return t(),a("div")}const m=e(d,[["render",c]]);export{i as __pageData,m as default};

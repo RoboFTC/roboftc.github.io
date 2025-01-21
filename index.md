@@ -19,7 +19,7 @@ hero:
       link: /cad/claw
     - theme: alt
       text: RoboCode
-      link: /code/pedro  
+      link: /code/mecanum  
 
 features:
   - title: RoboCAD

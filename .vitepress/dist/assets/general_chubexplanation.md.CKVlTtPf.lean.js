@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./chunks/framework.D5XSuxOt.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"general/chubexplanation.md","filePath":"general/chubexplanation.md"}'),n={name:"general/chubexplanation.md"};function o(r,c,s,p,i,l){return t(),a("div")}const m=e(n,[["render",o]]);export{d as __pageData,m as default};

@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.D5XSuxOt.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"general/gitstudent.md","filePath":"general/gitstudent.md"}'),n={name:"general/gitstudent.md"};function r(s,o,c,d,i,p){return a(),e("div")}const m=t(n,[["render",r]]);export{l as __pageData,m as default};

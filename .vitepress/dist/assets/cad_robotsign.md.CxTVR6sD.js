@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.BX3WmZWL.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cad/robotsign.md","filePath":"cad/robotsign.md","lastUpdated":1737434477000}'),o={name:"cad/robotsign.md"};function r(s,n,c,d,i,p){return a(),e("div")}const f=t(o,[["render",r]]);export{m as __pageData,f as default};
