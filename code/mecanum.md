@@ -1,15 +1,18 @@
+<template>
+  <div ref="iframeContainer"></div>
+</template>
+
 <script setup>
-  import { onMounted, nextTick } from 'vue';
+import { onMounted, ref } from 'vue';
+
+const iframeContainer = ref(null);
 
 onMounted(() => {
-  nextTick(() => {
-    const script = document.createElement('script');
-    script.src = '/code/mecanum/processing.js';
-    script.onload = () => console.log('Script loaded successfully!');
-    script.onerror = () => console.log('Failed to load script');
-    document.body.appendChild(script);
-  });
+  const iframe = document.createElement('iframe');
+  iframe.src = 'https://roboftc.github.io/code/mecanum/mecanum/index.html';
+  iframe.width = '100%';
+  iframe.height = '600px';
+  iframe.style.border = 'none';
+  iframeContainer.value.appendChild(iframe);
 });
-
-
 </script>
