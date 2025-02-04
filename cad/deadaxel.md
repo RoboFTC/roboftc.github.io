@@ -19,7 +19,7 @@ They requires power transmission to be directly attached to the mechanism as the
 
 The .step file for a 16 Tooth, 5HTD Pulley:
 
-
+<a href="../public/downloads/Dead Axle Left.step" download>a</a>
 
 Onshape Configurable Assembly:
 
