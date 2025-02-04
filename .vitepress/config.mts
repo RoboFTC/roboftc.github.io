@@ -23,20 +23,20 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'CAD', link: '/cad/claw' },
-      { text: 'Code', link: '/code/mecanum' },
+      { text: 'CAD', link: '/cad/deadaxel' },
+      { text: 'Code', link: '/code/pidf' },
     ],
     sidebar: [
       {
         text: 'RoboCAD',
         items: [
-          { text: 'Claw', link: '/cad/claw' },
+          { text: 'Dead Axel', link: '/cad/deadaxel' },
         ],
       },
       {
         text: 'RoboCode',
         items: [
-          { text: 'Pedro', link: '/code/pedro' },
+          { text: 'PIDF', link: '/code/pidf' },
         ],
       },
     ],

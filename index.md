@@ -16,10 +16,10 @@ hero:
       link: /
     - theme: alt
       text: RoboCAD
-      link: /cad/claw
+      link: /cad/deadaxel
     - theme: alt
       text: RoboCode
-      link: /code/mecanum  
+      link: /code/pidf  
 
 features:
   - title: RoboCAD
