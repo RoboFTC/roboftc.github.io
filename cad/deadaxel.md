@@ -17,9 +17,11 @@ They requires power transmission to be directly attached to the mechanism as the
 
 ## Download & Access
 
-The .step file for a 16 Tooth, 5HTD Pulley:
+#### The .step file for a 16 Tooth, 5HTD Pulley:
 
-<a href="../downloads/Dead Axle Left.step" download>a</a>
+<a href="../downloads/Dead Axle Left.step" download>Left Leaning Rollers (Wheel Included)</a>
+<a href="../downloads/Dead Axle Right.step" download>Right Leaning Rollers (Wheel Included)</a>
 
-Onshape Configurable Assembly:
+#### Onshape Configurable Assembly:
 
+<a href="./deadaxel.md">Placeholder</a>
