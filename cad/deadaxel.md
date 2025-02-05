@@ -25,7 +25,7 @@ They require power transmission to be directly attached to the mechanism as the 
 
 #### Onshape Configurable Assembly:
 
-::: warn
+::: warning
 It has a simplified model so the bumps don't appear, but it is for GripForces (104 mm) and not 96 mm Mecanum Wheels
 :::
 
