@@ -17,13 +17,8 @@ hero:
     - theme: alt
       text: RoboCAD
       link: /cad/deadaxel
-    - theme: alt
-      text: RoboCode
-      link: /code/pidf  
 
 features:
   - title: RoboCAD
-    details: Configurable CAD Designs
-  - title: RoboCode
     details: Configurable CAD Designs
 ---
