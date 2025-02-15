@@ -31,6 +31,7 @@ export default defineConfig({
         text: 'RoboCAD',
         items: [
           { text: 'Dead Axel', link: '/cad/deadaxel' },
+          { text: 'Claw', link: '/cad/claw' },
         ],
       },
       {
