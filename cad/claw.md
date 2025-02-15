@@ -1,6 +1,7 @@
 # RoboFTC Claw Design
 
-We have designed a claw design for the 2024-2025 FTC Robotics Season, Into The Deep, for both Onshape & Fusion available to download as a .step file.  
+We have designed a claw design for the 2024-2025 FTC Robotics Season, Into The Deep, for both Onshape & Fusion available to download as a .step file.
+
 The .step is made to provide an easy way to quickly get started with a bot by offering a well-tested claw for you team to use and edit.
 
 ## How does our claws work?
@@ -17,4 +18,4 @@ Our claw features a single servo for opening and closing the claw, geared togeth
 
 #### The .step file for the claw:
 
-<a href="" download>Download (Sample Included)</a>
+<a href="../downloads/claw" download>Download (Sample Included)</a>
