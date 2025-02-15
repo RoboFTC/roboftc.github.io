@@ -24,7 +24,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'CAD', link: '/cad/deadaxel' },
-      { text: 'Code', link: '/code/pidf' },
     ],
     sidebar: [
       {
@@ -32,12 +31,6 @@ export default defineConfig({
         items: [
           { text: 'Dead Axel', link: '/cad/deadaxel' },
           { text: 'Claw', link: '/cad/claw' },
-        ],
-      },
-      {
-        text: 'RoboCode',
-        items: [
-          { text: 'PIDF', link: '/code/pidf' },
         ],
       },
     ],
