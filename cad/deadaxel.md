@@ -32,6 +32,7 @@ It has a simplified model so the bumps don't appear, but it is for GripForces (1
 :::
 
 ## Photos
-![](/images/dac.png)
-![](/images/daf.png)
-![](/images/das.png)
+<style>img{border: 4px #1b1b1f;}</style>
+<img height="400" src="/images/dac.png" width="400"/>
+<img height="400" src="/images/daf.png" width="400" />
+<img height="400" src="/images/das.png" width="400" />
