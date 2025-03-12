@@ -27,12 +27,16 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'RoboCAD',
+        text: 'Components',
         items: [
           { text: 'Dead Axel', link: '/cad/deadaxel' },
           { text: 'Claw', link: '/cad/claw' },
         ],
       },
+        text: 'Robots',
+        items: [
+           { text: 'Eclipse', link: '/robots/eclipse' }
+        ],
     ],
   },
 });
