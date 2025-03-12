@@ -19,7 +19,7 @@ The intake is a very similar design to the outtake design of this robot. It also
 ## Advantages
 - Small form factor (15 in. x 12.5 in.)
 - Simple power transmission throughout the design (Outtake, Intake, Drivetrain)
-- Simple, yet effective design
+- Simple, yet effective design 
 
 ## Download & Access
 
