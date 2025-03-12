@@ -3,7 +3,7 @@
 We have designed a configurable assembly for Onshape (and exported) and a .step available to download.  
 The .step is made to connect to GoBilda Mecanum Wheels (both regular and GripForce), while the Onshape assembly is for Gripforces only.
 
-## How does a Dead Axel work?
+## How does a Dead Axle work?
 
 A dead axle setup is a mechanism mounted on a fixed axle using bearings, allowing the mechanism to spin freely around the axle, the axle itself does not rotate.
 They require power transmission to be directly attached to the mechanism as the axle won't turn the mechanism, making it ideal for situations where you need to power something between two plates, using the axle as a stable support point between them. 
