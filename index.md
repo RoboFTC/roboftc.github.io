@@ -15,10 +15,10 @@ hero:
       text: Get Started
       link: /
     - theme: alt
-      text: RoboCAD
+      text: Components
       link: /cad/deadaxel
 
 features:
-  - title: RoboCAD
-    details: Configurable CAD Designs
+  - title: Components
+    details: Claws, Dead Axles, Active Intakes, etc.
 ---
