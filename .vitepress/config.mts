@@ -33,6 +33,12 @@ export default defineConfig({
           { text: 'Claw', link: '/cad/claw' },
         ],
       },
+      {
+        text: 'Robots', // New "Robots" section
+        items: [
+          { text: 'Eclipse', link: '/robots/eclipse' }, // New subsection for "Eclipse"
+        ],
+      },
     ],
   },
 });
