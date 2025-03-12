@@ -18,9 +18,8 @@ Our claw features a single servo for opening and closing the claw, geared togeth
 
 #### The .step file for the claw:
 
-<a href="../downloads/claw.zip" download>Download (Sample Included)</a>
+<a href="../downloads/claw.step" download>Download (Sample Included)</a>
 
 ## Photos
 <style>img{border: 4px #1b1b1f;}</style>
 <img height="400" src="/images/clawSample.png" width="400"/>
-<img height="400" src="/images/claw.png" width="400" />
