@@ -17,8 +17,13 @@ hero:
     - theme: alt
       text: Components
       link: /cad/deadaxel
+    - theme: alt
+      text: Robots
+      link: /robots/eclipse
 
 features:
   - title: Components
     details: Claws, Dead Axles, Active Intakes, etc.
+  - title: Robots
+    details: Currently just Eclipse
 ---
