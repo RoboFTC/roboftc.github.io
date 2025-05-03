@@ -20,5 +20,4 @@ The insert features bearings on two sides—one for continuous string rigging an
 <a href="../downloads/counterspringinginserts.step" download>Download (Sample Included)</a>
 
 ## Photos
-<style>img{border: 4px #1b1b1f;}</style>
 <img height="400" src="/images/clawSample.png" width="400"/>
