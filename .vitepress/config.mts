@@ -31,6 +31,7 @@ export default defineConfig({
         items: [
           { text: 'Dead Axle', link: '/cad/deadaxel' },
           { text: 'Claw', link: '/cad/claw' },
+: 'Inserts', link: '/cad/counterspringinserts' }
         ],
       },
       {
