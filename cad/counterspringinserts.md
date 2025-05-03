@@ -1,4 +1,4 @@
-# RoboFTC Counter-springing Misumi Slide Insert Design
+Jim# RoboFTC Counter-springing Misumi Slide Insert Design
 
 We have designed a Counter-springing Misumi Slide Insert, available to download as a `.step` file.
 
@@ -20,4 +20,4 @@ The insert features bearings on two sides—one for continuous string rigging an
 <a href="../downloads/counterspringinginserts.step" download>Download Here</a>
 
 ## Photos
-<img src="/images/counterspringinginserts.png" width="400" height="400" style="border: 4px solid #1b1b1f;">
+<img src="/images/csi.png" width="400" height="400" style="border: 4px solid #1b1b1f;">
