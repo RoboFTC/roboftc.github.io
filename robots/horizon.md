@@ -33,5 +33,5 @@ Although this robot has been used for this game's current season in real life, t
 
 ## Photo
 <style>img{border: 4px #1b1b1f;}</style>
-<img height="400" src="/images/Horizon.png" width="400"/>
+<img height="400" src="/images/Horizon.jpg" width="400"/>
 
