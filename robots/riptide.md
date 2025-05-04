@@ -34,16 +34,19 @@ One-way flaps and a REV color sensor allowed for fast and accurate sample acquis
 
 [View/Download CAD (All Versions)](https://cad.onshape.com/documents/ae5ff79658ff2a51ece82558/w/1babafd80652d7e5216f214c)
 
+> **⚠️ Note:** Version history is enabled, so you can explore the differences between v1 and v2 inside the document.
+
 ## Photo
 
+#### Version 1 Photo:
 <style>img{border: 4px #1b1b1f;}</style>
 <img height="400" src="/images/riptidev1.jpg" width="400"/>
 
+
+#### Version 2 Photo:
 <style>img{border: 4px #1b1b1f;}</style>
 <img height="400" src="/images/riptidev2.jpg" width="400"/>
 
 #### More info:
 
 [Seattle Solvers Website](https://www.seattlesolvers.com/robots/into-the-deep-2024-2025)
-
-> **⚠️ Note:** Version history is enabled, so you can explore the differences between v1 and v2 inside the document.
