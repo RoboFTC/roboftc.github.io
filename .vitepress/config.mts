@@ -39,7 +39,8 @@ export default defineConfig({
         text: 'Robots', // New "Robots" section
         items: [
           { text: 'Eclipse', link: '/robots/eclipse' },
-          { text: 'Horizon', link: '/robots/horizon' }
+          { text: 'Horizon', link: '/robots/horizon' },
+          { text: 'Knockout', link: '/robots/knockout' }
         ],
       },
     ],

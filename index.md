@@ -25,5 +25,5 @@ features:
   - title: Components
     details: Claws, Slide Inserts, Active Intakes, etc.
   - title: Robots
-    details: Eclipse, Horizon, etc.
+    details: Eclipse, Horizon, Knockout, etc.
 ---

@@ -23,7 +23,7 @@ The intake is a very similar design to the outtake design of this robot. It also
 
 ## Download & Access
 
-#### The .step file for Horizon:
+#### The Fusion Link for Horizon:
 
 [View/Download Here](https://a360.co/4jVgrKq)
 
