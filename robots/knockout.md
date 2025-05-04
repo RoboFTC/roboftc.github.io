@@ -45,4 +45,4 @@ Although this robot has been tested in a real season, slight CAD inconsistencies
 ## Photo
 
 <style>img{border: 4px #1b1b1f;}</style>
-<img height="400" src="../images/ko.png" width="400"/>
+<img height="400" src="/images/ko.png" width="400"/>
