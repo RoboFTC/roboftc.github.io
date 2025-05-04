@@ -24,6 +24,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'CAD', link: '/cad/deadaxel' },
+      { text: "Discord", link: "https://discord.gg/SWHq9Xu7Jm"},
+      { text: "YouTube", link: "https://youtube.com/@theroboftc"}
     ],
     sidebar: [
       {
