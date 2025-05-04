@@ -1,6 +1,6 @@
 # Eclipse (Indubitables v1 Robot)
 
-This is the CAD for first robot from the FTC Team 20077, The Indubitables for the 2024-2025 FTC Robotics Season, Into The Deep, available as a .STEP file.
+This is the CAD for first robot from the FTC Team 20077, The Indubitables for the 2024-2025 FTC Robotics Season, Into The Deep, available as a Fusion Link.
 
 This robot is meant to give many new rookies and existing teams ideas this season, or seasons beyond, on some ideas you can create or replicate with your robot.
 
@@ -23,9 +23,9 @@ The intake is a very similar design to the outtake design of this robot. It also
 
 ## Download & Access
 
-#### The .step file for Eclipse:
+#### The Fusion Link for Eclipse:
 
-<a href="../downloads/Eclipse.zip" download>Download</a>
+[View/Download Here](https://a360.co/3ELgWI7)
 
 ::: warning
 Although this robot has been used for this games current season in real life, this doesn't mean there are any slight errors in the CAD. So just beware if there are any small or minor mistakes or flaws in the CAD.

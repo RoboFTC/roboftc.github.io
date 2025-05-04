@@ -1,6 +1,6 @@
 # Knock Out (Patent Pending Robot – FTC 11285)
 
-This is the CAD for **FTC Team 11285 PATENT PENDING**’s robot, **Knock Out**, available as a downloadable .step file.
+This is the CAD for **FTC Team 11285 PATENT PENDING**’s robot, **Knock Out**, available as a Onshape Link.
 
 It features a pass-through design commonly used in FTC and serves as a great source of inspiration for rookie teams looking to design reliable and competitive mechanisms.
 
