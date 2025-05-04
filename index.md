@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "RoboFTC"
   text: "Open Source FTC"
-  tagline: "At your fingertips!"
+  tagline: "Made Simple!"
   image:
         dark: /logo.png
         light: /logo.png
-        alt: robo ftc Logo
+        alt: RoboFTC Logo
   actions:
     - theme: brand
       text: Get Started
@@ -23,7 +23,7 @@ hero:
 
 features:
   - title: Components
-    details: Claws, Dead Axles, Active Intakes, etc.
+    details: Claws, Slide Inserts, Active Intakes, etc.
   - title: Robots
-    details: Currently just Eclipse
+    details: Eclipse, Horizon, etc.
 ---
