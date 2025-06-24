@@ -1,4 +1,4 @@
-# Horizon (Indubitables v2 Robot)
+# Horizon (Indubitables v2 Robot) | Kuek - 20077
 
 This is the CAD for the second robot from the FTC Team 20077, The Indubitables for the 2024-2025 FTC Robotics Season, Into The Deep, available as a Fusion link.
 

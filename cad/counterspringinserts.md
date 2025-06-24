@@ -1,4 +1,4 @@
-# RoboFTC Counter-springing Misumi Slide Insert Design
+# RoboFTC Counter-springing Misumi Slide Insert Design | Sohm - 11285
 
 We have designed a Counter-springing Misumi Slide Insert, available to download as a `.step` file.
 

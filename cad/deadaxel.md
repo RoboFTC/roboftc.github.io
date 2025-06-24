@@ -1,4 +1,4 @@
-# RoboFTC Dead Axle Design
+# RoboFTC Dead Axle Design | Shawn - 20077
 
 We have designed a configurable assembly for Onshape (and exported) and a .step available to download.  
 The .step is made to connect to GoBilda Mecanum Wheels (both regular and GripForce), while the Onshape assembly is for Gripforces only.

@@ -1,4 +1,4 @@
-# RoboFTC Claw Design
+# RoboFTC Claw Design | Simon - 16917
 
 We have designed a claw design for the 2024-2025 FTC Robotics Season, Into The Deep, for both Onshape & Fusion available to download as a .step file.
 

@@ -1,4 +1,4 @@
-# LCC Winner Bot (Exodus – FTC 30030)
+# LCC Winner Bot (Exodus – FTC 30030) | Avi - 30030
 
 This is the CAD for **FTC Team 30030 EXODUS**’s, **LCC Winner Bot**, available as a Onshape Link.
 

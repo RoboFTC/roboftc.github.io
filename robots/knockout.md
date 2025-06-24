@@ -1,4 +1,4 @@
-# Knock Out (Patent Pending Robot – FTC 11285)
+# Knock Out (Patent Pending Robot – FTC 11285) | Sohm - 11285
 
 This is the CAD for **FTC Team 11285 PATENT PENDING**’s robot, **Knock Out**, available as a Onshape Link.
 

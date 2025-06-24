@@ -1,4 +1,4 @@
-# Eclipse (Indubitables v1 Robot)
+# Eclipse (Indubitables v1 Robot) | Kuek - 20077
 
 This is the CAD for first robot from the FTC Team 20077, The Indubitables for the 2024-2025 FTC Robotics Season, Into The Deep, available as a Fusion Link.
 
