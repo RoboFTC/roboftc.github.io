@@ -34,7 +34,7 @@ The claw is designed to securely hold two distinct Fuel Lines simultaneously. Ut
 
 ## Download & Access
 
-#### The Onshape link for Knock Out:
+#### The Onshape link for Exodus' LCC Robot:
 
 [View/Download Here](https://cad.onshape.com/documents/49cd4bc4d188cf9592aaf817/w/f5d5bfaeb0fe6538bb09b024/e/0e47d121a4ce7c079c69fb56)
 
