@@ -36,7 +36,7 @@ One-way flaps and a REV color sensor allowed for fast and accurate sample acquis
 
 > **⚠️ Note:** Version history is enabled, so you can explore the differences between v1 and v2 inside the document.
 
-## Photo
+## Photos
 
 #### Version 1 Photo:
 <style>img{border: 4px #1b1b1f;}</style>

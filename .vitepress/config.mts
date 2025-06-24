@@ -43,7 +43,8 @@ export default defineConfig({
           { text: 'Eclipse', link: '/robots/eclipse' },
           { text: 'Horizon', link: '/robots/horizon' },
           { text: 'Knockout', link: '/robots/knockout' },
-          { text: 'Riptide', link: '/robots/riptide' }
+          { text: 'Riptide', link: '/robots/riptide' },
+          { text: 'Exodus', link: '/robots/exodus' }
         ],
       },
     ],
