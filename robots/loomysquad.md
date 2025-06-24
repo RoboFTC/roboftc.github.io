@@ -1,4 +1,4 @@
-# LCC Loomy Squad (Looomy Squad – FTC 788) | Saket - 23511
+# LCC Loomy Squad (Looomy Squad – FTC 788) | Saket & Zaiden - 23511 & 11212
 
 This is the CAD for **FTC Team 788 Loomy Squad**’s, **LCC Bot**, available as a Onshape Link.
 
