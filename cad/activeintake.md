@@ -1,4 +1,4 @@
-# RoboFTC Active Intake Design
+# RoboFTC Active Intake Design | Rick - 16021
 
 We have designed an active intake for the 2024-2025 FTC Robotics Season, Into The Deep available to download as a .step file.
 
