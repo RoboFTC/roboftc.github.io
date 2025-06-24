@@ -36,7 +36,8 @@ export default defineConfig({
           { text: 'Inserts', link: '/cad/counterspringinserts' },
           { text: 'Active Intake', link: '/cad/activeintake' },
           { text: 'Swerve Module', link: '/cad/swervemodule' },
-          { text: 'Boxtube', link: '/cad/boxtube' }
+          { text: 'Boxtube', link: '/cad/boxtube' },
+          { text: 'Differential Wrist', link: '/cad/differential' }
         ],
       },
       {
