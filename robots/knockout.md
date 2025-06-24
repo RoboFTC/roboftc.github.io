@@ -43,8 +43,11 @@ This level 3 hang uses a 2 step process to complete it. First, 2 spring loaded a
 Although this robot has been tested in a real season, slight CAD inconsistencies may exist. Please check and adjust the model as needed before using it in competition.
 :::
 
-## Photo
-
+#### Version 1 Photo:
 <style>img{border: 4px #1b1b1f;}</style>
 <img height="400" src="/images/ko.png" width="400"/>
+
+
+#### Version 2 Photo:
+<style>img{border: 4px #1b1b1f;}</style>
 <img height="400" src="/images/kov4.png" width="400"/>
