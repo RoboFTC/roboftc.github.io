@@ -35,7 +35,8 @@ export default defineConfig({
           { text: 'Claw', link: '/cad/claw' },
           { text: 'Inserts', link: '/cad/counterspringinserts' },
           { text: 'Active Intake', link: '/cad/activeintake' },
-          { text: 'Swerve Module', link: '/cad/swervemodule' }
+          { text: 'Swerve Module', link: '/cad/swervemodule' },
+          { text: 'Boxtube', link: '/cad/boxtube' }
         ],
       },
       {
