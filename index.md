@@ -23,7 +23,7 @@ hero:
 
 features:
   - title: Components
-    details: Claws, Slide Inserts, Active Intakes, etc.
+    details: Claws, Swerve Modules, Active Intakes, etc.
   - title: Robots
     details: Horizon, Riptide, Knockout, etc.
 ---
