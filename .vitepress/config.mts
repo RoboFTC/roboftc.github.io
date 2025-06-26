@@ -37,7 +37,8 @@ export default defineConfig({
           { text: 'Active Intake', link: '/cad/activeintake' },
           { text: 'Swerve Module', link: '/cad/swervemodule' },
           { text: 'Boxtube', link: '/cad/boxtube' },
-          { text: 'Differential Wrist', link: '/cad/differential' }
+          { text: 'Differential Wrist', link: '/cad/differential' },
+          { text: 'Robot Sign', link: '/cad/robotsign' }
         ],
       },
       {
