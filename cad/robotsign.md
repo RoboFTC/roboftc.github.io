@@ -13,8 +13,13 @@ Our robot sign features an array of magnets placed throughout the entire base of
 - FTC Legal!
 - Easy to assemble
 - Strong, durable design
+- Uses small magnets (6mm x 2mm)
 
 ## Download & Access
+
+#### Link to the magnets:
+
+[Purchase/View Here](https://a.co/d/9nK7tRQ)
 
 #### The Onshape Link for the robot sign:
 
