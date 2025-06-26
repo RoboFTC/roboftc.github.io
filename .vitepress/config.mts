@@ -24,6 +24,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'CAD', link: '/cad/deadaxel' },
+      { text: 'Code', link: '/code/pidf' },
       { text: "Discord", link: "https://discord.gg/SWHq9Xu7Jm"},
       { text: "YouTube", link: "https://youtube.com/@theroboftc"}
     ],
@@ -50,6 +51,12 @@ export default defineConfig({
           { text: 'Riptide', link: '/robots/riptide' },
           { text: 'Exodus', link: '/robots/exodus' },
           { text: 'Loomy Squad', link: '/robots/loomysquad' }
+        ],
+      },
+      {
+        text: 'Code', // New "Robots" section
+        items: [
+          { text: 'PIDF', link: '/code/pidf' }
         ],
       },
     ],
