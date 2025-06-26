@@ -25,6 +25,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'CAD', link: '/cad/deadaxel' },
       { text: 'Code', link: '/code/pidf' },
+      { text: 'Portfolios', link: '/port/indubs' },
       { text: "Discord", link: "https://discord.gg/SWHq9Xu7Jm"},
       { text: "YouTube", link: "https://youtube.com/@theroboftc"}
     ],
@@ -57,6 +58,12 @@ export default defineConfig({
         text: 'Code', // New "Robots" section
         items: [
           { text: 'PIDF', link: '/code/pidf' }
+        ],
+      },
+      {
+        text: 'Portfolios', // New "Robots" section
+        items: [
+          { text: 'Indubitables', link: '/port/indubs' }
         ],
       },
     ],

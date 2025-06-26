@@ -12,18 +12,26 @@ hero:
         alt: RoboFTC Logo
   actions:
     - theme: brand
-      text: Get Started
-      link: /
+      text: About Us
+      link: /info/aboutus
     - theme: alt
       text: Components
       link: /cad/deadaxel
     - theme: alt
       text: Robots
       link: /robots/eclipse
+    - theme: alt
+      text: Code
+      link: /code/pidf
+    - theme: alt
+      text: Portfolios
+      link: /port/indubs
 
 features:
   - title: Components
     details: Claws, Swerve Modules, Active Intakes, etc.
   - title: Robots
     details: Horizon, Riptide, Knockout, etc.
+  - title: Code
+    details: PIDF, Mecanum, etc.
 ---
