@@ -16,7 +16,7 @@ Our robot sign features an array of magnets placed throughout the entire base of
 
 ## Download & Access
 
-#### The Fusion 360 Link for the robot sign:
+#### The Onshape Link for the robot sign:
 
 [View/Download Here](https://cad.onshape.com/documents/18cc345589cb155ca6629c93/w/9950265c722f1054b1f4047c/e/04491882bcdf29187c0ea6c4?renderMode=0&uiState=685ad5382a86942241ab2d39)
 
