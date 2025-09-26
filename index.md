@@ -31,7 +31,7 @@ features:
   - title: Components
     details: Claws, Swerve Modules, Active Intakes, etc.
   - title: Robots
-    details: Horizon, Riptide, Knockout, etc.
+    details: Horizon, Riptide, Astra Ri3D, etc.
   - title: Code
     details: PIDF, Mecanum, etc.
   - title: Portfolios

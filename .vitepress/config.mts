@@ -51,7 +51,8 @@ export default defineConfig({
           { text: 'Knockout', link: '/robots/knockout' },
           { text: 'Riptide', link: '/robots/riptide' },
           { text: 'Exodus', link: '/robots/exodus' },
-          { text: 'Loomy Squad', link: '/robots/loomysquad' }
+          { text: 'Loomy Squad', link: '/robots/loomysquad' },
+          { text: 'Astra Ri3D', link: '/robots/astrari3d' }
         ],
       },
       {
