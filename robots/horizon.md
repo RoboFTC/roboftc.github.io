@@ -25,7 +25,9 @@ The intake is a very similar design to the outtake design of this robot. It also
 
 #### The Fusion Link for Horizon:
 
-[View/Download Here](https://a360.co/4jVgrKq)
+The password to access this CAD is: ROBOFTC
+
+[View/Download Here](https://a360.co/3Meqdvu)
 
 ::: warning
 Although this robot has been used for this game's current season in real life, this doesn't mean there are any slight errors in the CAD. So just beware if there are any small or minor mistakes or flaws in the CAD.
