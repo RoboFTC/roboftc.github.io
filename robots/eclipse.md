@@ -25,7 +25,9 @@ The intake is a very similar design to the outtake design of this robot. It also
 
 #### The Fusion Link for Eclipse:
 
-[View/Download Here](https://a360.co/3ELgWI7)
+The password to access this CAD is: ROBOFTC
+
+[View/Download Here](https://a360.co/4p479yA)
 
 ::: warning
 Although this robot has been used for this games current season in real life, this doesn't mean there are any slight errors in the CAD. So just beware if there are any small or minor mistakes or flaws in the CAD.
