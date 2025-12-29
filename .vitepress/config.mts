@@ -70,7 +70,7 @@ export default defineConfig({
       {
         text: 'Portfolios',
         items: [
-          { text: 'Indubitables', link: '/public/downloads/indubsport.pdf' }
+          { text: 'Indubitables', link: '/port/indubs' }
         ],
       },
     ],

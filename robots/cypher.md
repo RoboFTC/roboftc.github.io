@@ -10,13 +10,13 @@ This robot's drivetrain features an innovative coaxial swerve drivetrain powered
 
 This robot features an intake with 2 sets of static rollers with a passive set in the front powered by an Axon servo for compliance and an adjustable grip for the artifacts.
 
-This is all powered by a GoBilda 6000 RPM motor geared down for the perfect balance of both torque and speed when intaking artifacts.
+This is all powered by 2 GoBilda 6000 RPM motor geared down for the perfect balance of both torque and speed when intaking artifacts.
 
 ## Flywheel + Turret
 
 This robot features an FRC style hooded-flywheel launcher powered by 2 6000 RPM motors for high velocity shots. This shooter's hood is also adjustable with an Axon Servo allowing it to pivot to specific positions when launching from different distance!
 
-This robot's turret is powered by 2 Axon servos and is mounted on a custom bearing stack assembly for low friction and compactness with a high level of customability as well.
+This robot's turret is powered by 2 Axon servos and is mounted on a x-contact bearing for low friction and compactness with a high level of customability as well.
 
 ## Advantages
 

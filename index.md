@@ -28,7 +28,7 @@ hero:
       link: /code/pidf
     - theme: alt
       text: Portfolios
-      link: /public/downloads/indubsport.pdf
+      link: /port/indubs
 
 features:
   - title: Components
