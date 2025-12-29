@@ -44,25 +44,31 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Robots', // New "Robots" section
+        text: 'Robots (25/26)',
         items: [
-          { text: 'Eclipse', link: '/robots/eclipse' },
-          { text: 'Horizon', link: '/robots/horizon' },
-          { text: 'Knockout', link: '/robots/knockout' },
-          { text: 'Riptide', link: '/robots/riptide' },
-          { text: 'Exodus', link: '/robots/exodus' },
-          { text: 'Loomy Squad', link: '/robots/loomysquad' },
+          { text: 'Cypher', link: '/robots/cypher' },
           { text: 'Astra Ri3D', link: '/robots/astrari3d' }
         ],
       },
       {
-        text: 'Code', // New "Robots" section
+      text: 'Robots (24/25)',
+       items: [
+           { text: 'Eclipse', link: '/robots/eclipse' },
+           { text: 'Horizon', link: '/robots/horizon' },
+           { text: 'Knockout', link: '/robots/knockout' },
+           { text: 'Riptide', link: '/robots/riptide' },
+           { text: 'Exodus', link: '/robots/exodus' },
+           { text: 'Loomy Squad', link: '/robots/loomysquad' }
+              ],
+            },
+      {
+        text: 'Code',
         items: [
           { text: 'PIDF', link: '/code/pidf' }
         ],
       },
       {
-        text: 'Portfolios', // New "Robots" section
+        text: 'Portfolios',
         items: [
           { text: 'Indubitables', link: '/port/indubs' }
         ],

@@ -18,8 +18,11 @@ hero:
       text: Components
       link: /cad/deadaxel
     - theme: alt
-      text: Robots
-      link: /robots/eclipse
+      text: Robots (25/26)
+      link: /robots/astrari3d
+    - theme: alt
+      text: Robots (24/25)
+      link: /robots/eclipse  
     - theme: alt
       text: Code
       link: /code/pidf
@@ -30,8 +33,10 @@ hero:
 features:
   - title: Components
     details: Claws, Swerve Modules, Active Intakes, etc.
-  - title: Robots
-    details: Horizon, Riptide, Astra Ri3D, etc.
+  - title: Robots (25/26)
+    details: Cypher, Astra RI3d, Explorer, etc.
+  - title: Robots (24/25)
+    details: Horizon, Riptide, Knockout, etc.  
   - title: Code
     details: PIDF, Mecanum, etc.
   - title: Portfolios
