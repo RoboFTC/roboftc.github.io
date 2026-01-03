@@ -34,7 +34,7 @@ features:
   - title: Components
     details: Claws, Swerve Modules, Active Intakes, etc.
   - title: Robots (25/26)
-    details: Explorer, Cypher, Astra RI3d, etc.
+    details: Cypher, Astra RI3d, Explorer, etc.
   - title: Robots (24/25)
     details: Horizon, Riptide, Knockout, etc.  
   - title: Code
