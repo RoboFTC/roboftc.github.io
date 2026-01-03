@@ -22,7 +22,7 @@ This robot's turret is powered by 2 Axon servos and is mounted on a x-contact be
 
 - Fast Coaxial Swerve Drive
 - Fast & Efficient Compliant Intake
-- Modular & Elegant Design & Form Factor
+- Modular & Elegant Design & Form Factor 
 
 ## Download & Access
 
