@@ -46,6 +46,7 @@ export default defineConfig({
       {
         text: 'Robots (25/26)',
         items: [
+          { text: 'Explorer', link: '/robots/explorer' },
           { text: 'Cypher', link: '/robots/cypher' },
           { text: 'Astra Ri3D', link: '/robots/astrari3d' }
         ],
