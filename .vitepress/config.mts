@@ -48,7 +48,8 @@ export default defineConfig({
         items: [
           { text: 'Explorer', link: '/robots/explorer' },
           { text: 'Cypher', link: '/robots/cypher' },
-          { text: 'Astra Ri3D', link: '/robots/astrari3d' }
+          { text: 'Astra Ri3D', link: '/robots/astrari3d' },
+          { text: "Can't Out Astra The Machina", link: '/robots/cant' }
         ],
       },
       {

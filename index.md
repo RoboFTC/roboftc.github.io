@@ -34,11 +34,11 @@ features:
   - title: Components
     details: Claws, Swerve Modules, Active Intakes, etc.
   - title: Robots (25/26)
-    details: Cypher, Astra RI3d, Explorer, etc.
+    details: Cypher, Can't Out Astra The Machina, Explorer, etc.
   - title: Robots (24/25)
     details: Horizon, Riptide, Knockout, etc.  
   - title: Code
     details: PIDF, Mecanum, etc.
   - title: Portfolios
-    details: Just Indubs
+    details: Indubitables, Astra, etc.
 ---
