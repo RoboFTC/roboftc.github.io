@@ -18,6 +18,9 @@ hero:
       text: Components
       link: /cad/deadaxel
     - theme: alt
+      text: Robots (26/27)
+      link: /robots/2astrari3d  
+    - theme: alt
       text: Robots (25/26)
       link: /robots/astrari3d
     - theme: alt
