@@ -1,6 +1,6 @@
-# Astra Machina Ri3D | Kuek - 16010
+# Astra Machina Ri3D (Decode)| Kuek - 16010
 
-This is the CAD for RI3D from the FTC Team 1610, Astra Machina for the 2025-2026 FTC Robotics Season, DECODE, available as a Fusion Link.
+This is the CAD for RI3D from the FTC Team 16010, Astra Machina for the 2025-2026 FTC Robotics Season, DECODE, available as a Fusion Link.
 
 This robot is meant to give many new rookies and existing teams ideas this season, or seasons beyond, on some ideas you can create or replicate with your robot.
 
@@ -14,7 +14,7 @@ The shooter features a shooter design commonly used in the FRC 2017 Season, Stea
 
 ## Intake
 
-The intake features 2 sets of 96mm Gobilda Bootwheels to propel the artifact into the flywheel shooter. It also features a low angle ramp on the bottom of the chassis to help elavate the artifacts from the ground to the opening of the shooter. It also features HTD5 belts connecting the system powered by an 1150 RPM GoBilda Yellow Jacket Motor.
+The intake features 2 sets of 96mm Gobilda Boot Wheels to propel the artifact into the flywheel shooter. It also features a low angle ramp on the bottom of the chassis to help elevate the artifacts from the ground to the opening of the shooter. It also features HTD5 belts connecting the system powered by an 1150 RPM GoBilda Yellow Jacket Motor.
 
 ## Advantages
 - Small form factor (15 in. x 14 in.)

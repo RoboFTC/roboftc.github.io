@@ -23,7 +23,7 @@ This robot's turret is mounted onto an X-Contact bearing supported by a 1/4" car
 
 ## Download & Access
 
-#### The Onshape CAD for Can't Out Astra The Machina:
+#### The Fusion CAD for Can't Out Astra The Machina:
 
 The password to access this CAD is: "cant"
 

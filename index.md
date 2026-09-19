@@ -33,6 +33,8 @@ hero:
 features:
   - title: Components
     details: Claws, Swerve Modules, Active Intakes, etc.
+  - title: Robots (26-27)
+    details: Astra BioBuzz Ri3D
   - title: Robots (25/26)
     details: Cypher, Can't Out Astra The Machina, Explorer, etc.
   - title: Robots (24/25)

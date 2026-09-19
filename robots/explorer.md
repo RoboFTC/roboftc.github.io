@@ -25,7 +25,7 @@ This robot's turret is mounted onto an off-the-shelf Lazy Susan available on Ama
 
 ## Download & Access
 
-#### The Onshape CAD for Explorer:
+#### The Fusion CAD for Explorer:
 
 [View/Download CAD](https://a360.co/4qBwyjp)
 

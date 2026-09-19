@@ -44,6 +44,12 @@ export default defineConfig({
         ],
       },
       {
+          text: 'Robots (26/27)',
+          items: [
+            { text: 'Astra BioBuzz Ri3D', link: '/robots/2astrari3d' }
+          ],
+      },
+      {
         text: 'Robots (25/26)',
         items: [
           { text: 'Explorer', link: '/robots/explorer' },
